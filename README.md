@@ -1,2 +1,0 @@
-# EditableField
-Created with CodeSandbox
